@@ -1,0 +1,57 @@
+#heart-img {
+    margin-top: 20px;
+    display: none;
+   
+  
+    width: 150px;}
+    body{
+        background-color: MediumSlateBlue;
+        color:white;
+        font-size:30px;
+        font-family:sans-serif ;
+        text-align: center;
+        margin:0px;
+    }
+    ul{
+        text-align: left;
+        color:Indigo;
+        
+    }
+    li{
+        background-color: Lavender;
+    }
+    h1{
+        color:rgb(38, 255, 0);
+    }
+  span{
+    color:Maroon;
+    background-color: chartreuse;
+  }
+  h3{
+    color:maroon;
+  }
+  img{
+    width:250px;
+    height:250px;
+    border-radius: 50px;
+  }
+  a{
+    text-decoration: none;
+    background-color: coral;
+    transition: 0.3s;
+    
+    padding: 20px 30px 20px 30px;
+    border-radius: 20px;
+  }
+  .book{
+    display: flex;
+    justify-content: space-around;
+  }
+  a:hover{
+    box-shadow: 20px 10px 30px maroon;
+    transform: translateY(-20px);
+  }
+  #heart {
+    width: 150px;
+    transition: transform 0.5s ease-in-out;}
+  
