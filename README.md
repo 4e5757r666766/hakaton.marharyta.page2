@@ -1,1 +1,1 @@
-# hakaton.marharyta.page2
+# hakaton.Fantasy.KhomyakMarharyta
